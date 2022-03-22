@@ -10,10 +10,10 @@ Pour toute demande autre, le [discord](https://discord.io/tsundere-raws) est ouv
 
 ## Animes
 
-- [World's End Harem]()
+- [World's End Harem](./World's%20End%20Harem/)
 
 ### Films
 
-- [Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram](./World's%20End%20Harem/)
+- [Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram](./Fate%20Grand%20Order%20Divine%20Realm%20of%20the%20Round%20Table%20-%20Camelot%20-%20Wandering;%20Agateram/)
 - [Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon](./Fate%20Grand%20Order%20Final%20Singularity%20-%20Grand%20Temple%20of%20Time%20-%20Solomon/)
 - [Words Bubble Up Like Soda Pop](./Words%20Bubble%20Up%20Like%20Soda%20Pop/)
