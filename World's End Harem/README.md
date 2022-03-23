@@ -9,3 +9,5 @@ Sous-titres de [World's End Harem](https://anilist.co/anime/118465/Worlds-End-Ha
 Polices utilisées:
 - Trebuchet
 - Montserrat
+- Arial
+- Times New Roman
