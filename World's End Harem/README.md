@@ -6,7 +6,7 @@ Sous-titres de [World's End Harem](https://anilist.co/anime/118465/Worlds-End-Ha
 
 💚 Merci à la Koneko-Fansub pour le karaoké de l'opening !
 
-Polices utilisées:
+Polices utilisées: (Pack téléchargeable [ici](./fonts.zip))
 - Trebuchet
 - Montserrat
 - Arial

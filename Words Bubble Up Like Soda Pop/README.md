@@ -4,5 +4,5 @@ Sous-titres de [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625/W
 
 💚 Merci à la ViVENDi pour les sous-titres d'origine !
 
-Polices utilisées:
+Polices utilisées: (Pack téléchargeable [ici](./fonts.zip))
 - Trebuchet
